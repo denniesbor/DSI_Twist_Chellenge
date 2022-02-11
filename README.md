@@ -14,9 +14,8 @@
 <br />
 <img src="https://github.com/denniesbor/DSI_Twist_Chellenge/blob/assets/images/IMG_20220209_072428.jpg?raw=true" height="400px" width="600px"/>
 <br />
-
 [Figure 1: A sample workstation image]
-
+  
 * Labelled the images with `labelImg` library.
 <br />
 <img src="https://github.com/denniesbor/DSI_Twist_Chellenge/blob/2b76763b9c4d6ea852d3fe28953f1a41e7d1e289/images/label_0.png?raw=true" height=height="540px" width="480px">
