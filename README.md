@@ -1,4 +1,4 @@
-<center><h2><strong>Dennies Bor</strong><h2></center >
+<h2><center><strong>Dennies Bor</strong></center ><h2>
 <center><h2><strong>Team Reef_safe</strong><h2></center >
 <strong><h3>DATA PREP && MODEL TRAINING<h3></strong >
 ---
@@ -36,13 +36,13 @@
 <br />
 Tensorboard results.
 <img src="https://github.com/denniesbor/DSI_Twist_Chellenge/blob/main/images/results_0.png?raw=true" height="400px" width="540px"/>
----
+****
 
 <em />FAILURE CAUSES:</em >
 * Limited training datasets.
 * Neglected to label the mouse, laptop and keyboard- Since model is trained on these items would be easy to isolate the risks.
 * Resources - 
----
+*****
 <h3><strong>DEPLOYMENT:</strong ></h3>
 <em>CONCEPT:</em > 
 <br />
